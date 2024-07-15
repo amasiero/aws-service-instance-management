@@ -75,8 +75,8 @@ aws-service-instance-management
 │   │   │               │   └── aws
 │   │   │               │       ├── AwsConfig.java     # Main configuration class
 │   │   │               │       └── AwsProperties.java # Configuration properties for AWS
-│   │   │               ├── service
-│   │   │               │   └── aws
+│   │   │               └── service
+│   │   │                   └── aws
 │   │   │                       └── AwsInstanceService.java  # Service class for AWS operations
 │   ├── test
 │   │   ├── java
