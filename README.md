@@ -94,6 +94,11 @@ aws-service-instance-management
 └── README.md
 ```
 
+# API Documentation
+
+The application has the endpoints listed
+in [here](https://github.com/openservicebrokerapi/servicebroker/blob/v2.15/spec.md#provisioning).
+
 # Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
